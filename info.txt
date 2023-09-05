@@ -1,0 +1,4 @@
+git is widely used
+git is easy tool
+we have to store in SCM
+we want to create repo in git
